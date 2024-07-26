@@ -1,6 +1,6 @@
 # Financial Report Scraper
 
-This project is designed to scrape financial reports and extract relevant information. It utilizes various Python libraries and tools to automate the process of gathering and processing financial data from different sources.
+This project is designed to scrape financial reports and extract relevant information. It utilizes various Python libraries and tools to automate the process of gathering and processing financial data from different sources. **Note: This code is intended to be used with Google Colab.**
 
 ## Features
 
